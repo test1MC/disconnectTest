@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject
+  Version="1"
+  MasterStylesheet="/Content/Resources/Stylesheets/Styles.css"
+  MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl"
+  MasterStylesheetOverride="True"
+  xml:lang="en-us"
+  SourceControlBound="false"
+  Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project."
+  IncludePattern="*.htm;*.html"
+  AutoExcludeNonTaggedFiles="false"
+  IncludeLinkedFiles="false"
+  DeleteStale="false"
+  DeleteUnreferenced="false"
+  AutoSync="true"
+  LastImport="2016-05-05T14:31:08.2456363-07:00">
+  <Files>
+    <Url
+      Source="file:///C:/Users/jlourash/Documents/My Projects/Test/Test.flprj"
+      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/Test/Test.flprj" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles>
+    <Url
+      Source="../../../Test/Content/Image Topic.htm"
+      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/Test/Content/Image Topic.htm" />
+  </CollectedSourceFiles>
+  <SkippedSourceFiles>
+    <Url
+      Source="../../../Test/Content/Topic.htm"
+      AbsoluteSource="file:///C:/Users/jlourash/Documents/My Projects/Test/Content/Topic.htm" />
+  </SkippedSourceFiles>
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/Image Topic.htm"
+      TimeStamp="5/5/2016 12:53:21 PM" />
+  </GeneratedFiles>
+</CatapultProject>
